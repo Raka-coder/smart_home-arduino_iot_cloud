@@ -3,6 +3,8 @@
 
 [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-v2.3.4-blue)](https://www.arduino.cc/en/software)
 
+
+[![Arduino IoT Cloud](https://cloud.arduino.cc/images/logo.svg)](https://cloud.arduino.cc/)
 ## 🌟 Fitur Utama
 
 - [x] Akses Real Time
