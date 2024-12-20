@@ -4,12 +4,12 @@
 #include <Arduino_ConnectionHandler.h>
 #include <ArduinoMqttClient.h>
 
-const char THING_ID[]           = "26b010c0-6807-438b-ada5-9a322a21ac14";
-const char DEVICE_LOGIN_NAME[]  = "e1c5123f-543d-4779-b4b4-7bb1697b0fe5";
+const char THING_ID[]           = "";
+const char DEVICE_LOGIN_NAME[]  = "";
 
-const char SSID[]               = "rakaadesti";    // Network SSID (name)
-const char PASS[]               = "12345678";    // Network password (use for WPA, or use as key for WEP)
-const char DEVICE_KEY[]         = "0KuDpq@YTkQyC89Z6hmq?NYc8";    // Secret device password
+const char SSID[]               = "";    // Network SSID (name)
+const char PASS[]               = "";    // Network password (use for WPA, or use as key for WEP)
+const char DEVICE_KEY[]         = "";    // Secret device password
 
 void onLampuChange();
 
