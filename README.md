@@ -1,9 +1,8 @@
 
 # Smart Home - Arduino IoT Cloud
 
+[![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-v2.3.4-blue)](https://www.arduino.cc/en/software)
 
-
-A brief description of what this project does and who it's for
 ## 🌟 Fitur Utama
 
 - [x] Akses Real Time
