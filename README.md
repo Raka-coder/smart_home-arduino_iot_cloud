@@ -23,5 +23,5 @@ A brief description of what this project does and who it's for
 - Arduino IDE
 - Aplikasi Arduino IoT Remote
 
-# 🔒 Lisensi
-MIT License - Lihat Lisensi
+## 🔒 Lisensi
+MIT License - Lihat [Lisensi](https://github.com/Raka-coder/smart_home-arduino_iot_cloud/blob/main/LICENSE)
