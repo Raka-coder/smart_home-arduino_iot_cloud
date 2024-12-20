@@ -28,7 +28,7 @@ Upload the code contained in this sketch on to your board
 ....
  Smart_Home_dec19a                => Arduino sketch folder
   ├── Smart_Home_dec19a.ino       => main Arduino file
-  ├── SmartHome_Arduino-IoT-Cloud.png      => (optional) an image of the required schematics
+  ├── SmartHome_Arduino-IoT-Cloud_diagram_sketch.png      => (optional) an image of the required schematics
   └── ReadMe.adoc                 => this file
 ....
 
